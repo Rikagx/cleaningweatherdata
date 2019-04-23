@@ -1,5 +1,4 @@
-#"Cleaning Data in R" Datacamp Course: Putting it all together section
-# By: Rika Gorn
+
 
 library(haven)
 library(dplyr)
